@@ -1,0 +1,28 @@
+{
+    "name": "rmdir-recursive-async",
+    "version": "0.1.0",
+    "description": "Delete a directory recursively asynchronously",
+    "author": "OpenByte <development.openbyte@gmail.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OpenByteDev/rmdir-recursive-async.git"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {},
+    "keywords": [
+        "rmdir",
+        "recursive",
+        "async",
+        "promise",
+        "directory",
+        "remove",
+        "delete"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/OpenByteDev/rmdir-recursive-async/issues"
+    },
+    "homepage": "https://github.com/OpenByteDev/rmdir-recursive-async#readme"
+}
